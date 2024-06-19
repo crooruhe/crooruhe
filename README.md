@@ -1,4 +1,4 @@
-hack the planet 🌎 - active github since 1990
+hack the planet 🌎
 
 personal site: https colon slash slash `lucy` [dot] `xn--q9jyb4c`
 
